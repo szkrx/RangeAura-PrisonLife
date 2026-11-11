@@ -1,6 +1,6 @@
-# RangeAura · 范围攻击
+# RangeAura · Prison Life 范围攻击
 
-作者：**kr X** ｜ 纯客户端 Roblox Lua ｜ 手机 / PC 双端
+作者：**kr X** ｜ 纯客户端 Roblox Lua ｜ 手机 / PC 双端 ｜ 适配 **Prison Life**
 
 不开枪也能自动打人：按设定半径扫描附近玩家，把**近战命中**和**枪械命中**同时发给目标，范围、攻速、伤害全部实时可调。
 
